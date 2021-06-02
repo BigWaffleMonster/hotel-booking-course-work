@@ -1,5 +1,5 @@
 {
   "port": 5000,
   "jwtSecrete": "hotel-booking",
-  "mongoUri": "mongodb+srv://BigWaffleMonster:hotel-booking@cluster0.g2bzx.mongodb.net/hotelBooking?retryWrites=true&w=majority" 
+  "mongoUri": "mongodb+srv://<name>:hotel-booking@cluster0.g2bzx.mongodb.net/hotelBooking?retryWrites=true&w=majority" 
 }
